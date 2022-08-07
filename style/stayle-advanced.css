@@ -56,7 +56,6 @@
     text-decoration: none;
     display: block;
     clear: both;
-
 }
 .name{
     display: block;
@@ -65,7 +64,6 @@
     font-family: Helvetica Neue,Noto Naskh Arabic UI,Arial,sans-serif;
     font-weight:inherit ;
     font-style: initial;
-    vertical-align: baseline;
     font-size: 20px;
     text-decoration: none;
 }
