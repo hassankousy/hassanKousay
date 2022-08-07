@@ -104,5 +104,10 @@
     top: 12px;
     visibility: hidden;
 }
-
+.google{
+    display: flexbox;
+    align-items: center;
+    float: left;
+    margin-left: 15px;
+}
 
