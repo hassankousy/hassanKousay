@@ -102,6 +102,7 @@
     transition: 100ms;
     position: relative;
     top: 12px;
+    visibility: hidden;
 }
 
 
